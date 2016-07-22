@@ -1,11 +1,7 @@
 [
   {
     "remote":      "github",
-<<<<<<< HEAD
     "repository":  "znaznazna/android_device_xiaomi_mt6795-common",
-=======
-    "repository":  "jianminglok/android_device_xiaomi_mt6795-common",
->>>>>>> master
     "target_path": "device/xiaomi/mt6795-common"
   }
 ]
